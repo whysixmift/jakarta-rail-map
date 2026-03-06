@@ -2,6 +2,10 @@
 
 Interactive static railway map of Jakarta built with Leaflet and OpenStreetMap tiles.
 
+## Live Demo
+
+- https://jakarta-railmap.vercel.app
+
 ## Features
 
 - Full-screen interactive map
